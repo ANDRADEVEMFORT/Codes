@@ -1,0 +1,20 @@
+NEXO 3D - Site do plano de negócios
+
+Como abrir
+- Dê dois cliques em index.html (funciona no computador e no celular, sem instalar nada).
+
+Arquivos
+- index.html  - estrutura e conteúdo das abas
+- css/style.css - cores, layout e adaptação para celular
+- js/script.js  - abas, gráfico, tabelas e simulador de orçamento
+- nexo-3d-plano-arquivo-unico.html - a mesma página em um só arquivo, boa para enviar por e-mail ou WhatsApp
+
+Como publicar
+- Envie a pasta inteira para qualquer hospedagem de site estático (Netlify, GitHub Pages, Vercel etc.).
+
+Observação
+- A fonte Inter vem da internet; sem conexão, o site usa a fonte padrão do aparelho.
+
+Atualização: fundo fixo em todas as abas, imagem otimizada em assets/fundo-nexo.webp.
+O HTML de arquivo único inclui a imagem incorporada.
+Para Netlify, publique a pasta extraída que contém index.html.
